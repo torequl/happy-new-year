@@ -308,7 +308,8 @@ section {
 }
 
 .portfolio-text-content {
-    padding: 20px 0;
+    padding: 30px 0;
+    text-align: center;
 }
 
 .portfolio-text-content strong,
